@@ -1,0 +1,1 @@
+console.log("Confissões a Dois iniciado!");
